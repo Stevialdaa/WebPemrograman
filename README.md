@@ -4,6 +4,8 @@
 Komponen tech stack yang dipilih adalah HTML dari kategori Frontend. HTML (Hypertext Markup Language) merupakan bahasa markup standar umum dipakai untuk membuat halaman website dan juga aplikasi web. 
 
 ## Kelebihan dan kekurangan dari tech stack yang dipilih
+
+
 Kelebihan : 
 
 ### Dapat digunakan diberagam jenis komputer
@@ -26,6 +28,7 @@ HTML dapat menyisipkan bahasa pemrograman untuk membuat halaman web lebih menari
 ### Tidak memerlukan kompiler untuk menjalankannya
 
 HTML dapat langsung menjalankan bahasa pemrogramannya dengan hanya menggunakan browser. 
+
 
 Kekurangan : 
 
