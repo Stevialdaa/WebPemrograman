@@ -1,8 +1,27 @@
 # Tech Stack dan Web Environment
 
 ## Komponen dari tech stack yang dipilih
-Komponen tech stack yang dipilih adalah HTML dari kategori Frontend. HTML (Hypertext Markup Language) merupakan bahasa markup standar umum dipakai untuk membuat halaman website dan juga aplikasi web. 
-
+HTML memiliki beberapa komponen, yaitu :
+### Doctype Declaration
+berfungsi untuk menentukan versi HTML yang digunakan
+### Elemen HTML
+Berfungsi sebagai Elemen dasar yang membentuk struktur halaman.
+<.html>
+</html.>
+### Elemen Head 
+Berisikan informasi dokumen, seperti judul dan lain lain.
+<.head>  
+</head.>
+### Elemen body 
+pada bagian ini berisikan perihal yang akan ditampilkan di halaman web.
+<.body>
+</body.>
+### Elemen text
+Heading = <.h1></h2.> berfungsi untuk memberikan judul dan subjudul, yang dimulai dari <h1> (terbesar) hingga <h6> (terkecil).
+Paragraf = <.p></p.> Digunakan untuk membuat teks yang berbentuk paragraf.
+span = <.span></span.>
+div = <.div></div.>
+Link = <a href="link/"> Nama yang ingin ditampilkan </a>Menghubungkan ke halaman lain atau sumber daya.
 ## Kelebihan dan kekurangan dari tech stack yang dipilih
 
 
