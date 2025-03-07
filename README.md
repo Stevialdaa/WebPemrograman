@@ -2,26 +2,49 @@
 
 ## Komponen dari tech stack yang dipilih
 HTML memiliki beberapa komponen, yaitu :
-### Doctype Declaration
+## Doctype Declaration
 berfungsi untuk menentukan versi HTML yang digunakan
-### Elemen HTML
+## Elemen HTML
 Berfungsi sebagai Elemen dasar yang membentuk struktur halaman.
 <.html>
 </html.>
-### Elemen Head 
+## Elemen Head 
 Berisikan informasi dokumen, seperti judul dan lain lain.
 <.head>  
 </head.>
-### Elemen body 
+## Elemen body 
 pada bagian ini berisikan perihal yang akan ditampilkan di halaman web.
 <.body>
 </body.>
-### Elemen text
-Heading = <.h1></h2.> berfungsi untuk memberikan judul dan subjudul, yang dimulai dari <h1> (terbesar) hingga <h6> (terkecil).
-Paragraf = <.p></p.> Digunakan untuk membuat teks yang berbentuk paragraf.
-span = <.span></span.>
-div = <.div></div.>
-Link = <a href="link/"> Nama yang ingin ditampilkan </a>Menghubungkan ke halaman lain atau sumber daya.
+## Elemen text
+### Heading 
+<.h1></h2.> berfungsi untuk memberikan judul dan subjudul, yang dimulai dari <.h1> (terbesar) hingga <.h6> (terkecil).
+### Paragraf 
+<.p></p.> Digunakan untuk membuat teks yang berbentuk paragraf.
+### Div dan Span 
+Elemen kontainer untuk mengelompokkan konten.  
+<.span></span.>
+<.div></div.>
+### form  
+Untuk mengumpulkan input dari user.
+### Link  
+<.a href="link/"> Nama yang ingin ditampilkan </a>Menghubungkan ke halaman lain atau sumber daya.
+### Gambar 
+berfungsi untuk menyisipkan gambar. <.img src="nama file" alt="keterangan Gambar">
+### List  
+berfungsi untuk Membuat daftar, baik terurut (<.ol>) maupun tidak terurut (<.ul>).
+### Tabel 
+berfungsi untuk Menampilkan data didalam format tabel.
+<.table>
+    <.tr>
+        <.th>Nama<./th>
+        <.th>Usia<./th>
+    <./tr>
+    <.tr>
+        <.td>Stevi<./td>
+        <.td>19<./td>
+    <./tr>
+<./table>
 ## Kelebihan dan kekurangan dari tech stack yang dipilih
 
 
@@ -69,3 +92,4 @@ Client tidak dapat berinteraksi dengan server. Agar bisa berinteraksi HTML harus
 
 ## Sumber data 
 https://codingstudio.id/blog/pengertian-html-dan-kelebihan-kekurangannya/
+https://www.w3schools.com/html/default.asp
