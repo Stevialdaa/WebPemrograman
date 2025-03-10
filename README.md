@@ -89,7 +89,9 @@ Client tidak dapat berinteraksi dengan server. Agar bisa berinteraksi HTML harus
 ## Tren perkembangan dari tech stack pada 2025
 
 ## Contoh perusahaan yang menggunakan tech stack tersebut
+contoh perusahaan yang menggunakan HTML dalam perusahaan mereka adalah google. Google menggunakan HTML & CSS. HTML menjadi fondasi untuk antarmuka pengguna yang interaktif dan responsif. bahkan google mengakui bahwa html sangat berguna untuk membuat aplikasi web atau menambahkan antarmuka pengguna kustom di Google Dokumen, Spreadsheet, dan Formulir. 
 
 ## Sumber data 
 https://codingstudio.id/blog/pengertian-html-dan-kelebihan-kekurangannya/
 https://www.w3schools.com/html/default.asp
+https://developers.googleblog.com/id/celebrating-25-years-of-google-search-developer-trends-and-history/
