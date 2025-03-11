@@ -45,10 +45,8 @@ berfungsi untuk Menampilkan data didalam format tabel.
         <.td>19<./td>
     <./tr>
 <./table>
-## Kelebihan dan kekurangan dari tech stack yang dipilih
 
-
-Kelebihan : 
+## Kelebihan dari tech stack yang dipilih
 
 ### Dapat digunakan diberagam jenis komputer
 
@@ -72,7 +70,7 @@ HTML dapat menyisipkan bahasa pemrograman untuk membuat halaman web lebih menari
 HTML dapat langsung menjalankan bahasa pemrogramannya dengan hanya menggunakan browser. 
 
 
-Kekurangan : 
+## Kekurangan dari tech stack yang dipilih
 
 ### Hanya menghasilkan halaman statis
 
