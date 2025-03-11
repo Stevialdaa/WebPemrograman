@@ -90,7 +90,7 @@ Client tidak dapat berinteraksi dengan server. Agar bisa berinteraksi HTML harus
 Tren perkembangan html dalam 2025 yang saya dapatkan adalah, peningkatan pada sekelompok elemen detail dapat berfungsi seperti antarmuka pengguna, meskipun masih ada beberapa masalah aksesibilitas. Dukungan untuk elemen <.detail> dan <.summary> di berbagai browser sudah ada sejak 2016, tetapi fungsionalitasnya baru-baru ini mulai diperbaiki dan ditingkatkan. Pilihan yang dapat ditata akan segera diluncurkan, tetapi browser tidak dapat langsung membuat semua elemen dapat ditata. Karena jika itu terjadi, akan ada masalah dengan CSS yang sudah ada. Oleh karena itu, sepertinya opsi baru akan diaktifkan melalui CSS.
 
 ## Contoh perusahaan yang menggunakan tech stack tersebut
-contoh perusahaan yang menggunakan HTML dalam perusahaan mereka adalah google. Google menggunakan HTML & CSS. HTML menjadi fondasi untuk antarmuka pengguna yang interaktif dan responsif. bahkan google mengakui bahwa html sangat berguna untuk membuat aplikasi web atau menambahkan antarmuka pengguna kustom di Google Dokumen, Spreadsheet, dan Formulir. 
+Contoh perusahaan yang menggunakan HTML dalam perusahaan mereka adalah google. Google menggunakan HTML & CSS. HTML menjadi fondasi untuk antarmuka pengguna yang interaktif dan responsif. bahkan google mengakui bahwa html sangat berguna untuk membuat aplikasi web atau menambahkan antarmuka pengguna kustom di Google Dokumen, Spreadsheet, dan Formulir. 
 
 ## Sumber data 
 https://codingstudio.id/blog/pengertian-html-dan-kelebihan-kekurangannya/
