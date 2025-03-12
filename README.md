@@ -92,9 +92,11 @@ Contoh perusahaan yang menggunakan HTML dalam perusahaan mereka adalah google. G
 
 Contoh selanjutnya adalah Facebook yang menggunakan HTML sebagai dasar untuk menampilkan halaman webnya, termasuk struktur halaman, teks, gambar, dan elemen-elemen lainnya. 
 
+Contoh terakhir adalah Tiket.com yang menggunakan HTML yang berperan sebagai akomodir untuk website Tiket.com.
 
 ## Sumber data 
 https://codingstudio.id/blog/pengertian-html-dan-kelebihan-kekurangannya/
 https://www.w3schools.com/html/default.asp
 https://developers.googleblog.com/id/celebrating-25-years-of-google-search-developer-trends-and-history/
 https://frontendmasters.com/blog/bone-up-html-2025/
+https://id.linkedin.com/jobs/html-developer-jobs
