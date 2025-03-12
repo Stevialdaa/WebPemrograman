@@ -90,6 +90,9 @@ Tren perkembangan html dalam 2025 yang saya dapatkan adalah, peningkatan pada se
 ## Contoh perusahaan yang menggunakan tech stack tersebut
 Contoh perusahaan yang menggunakan HTML dalam perusahaan mereka adalah google. Google menggunakan HTML & CSS. HTML menjadi fondasi untuk antarmuka pengguna yang interaktif dan responsif. bahkan google mengakui bahwa html sangat berguna untuk membuat aplikasi web atau menambahkan antarmuka pengguna kustom di Google Dokumen, Spreadsheet, dan Formulir. 
 
+Contoh selanjutnya adalah Facebook yang menggunakan HTML sebagai dasar untuk menampilkan halaman webnya, termasuk struktur halaman, teks, gambar, dan elemen-elemen lainnya. 
+
+
 ## Sumber data 
 https://codingstudio.id/blog/pengertian-html-dan-kelebihan-kekurangannya/
 https://www.w3schools.com/html/default.asp
